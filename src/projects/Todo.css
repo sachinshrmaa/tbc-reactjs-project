@@ -1,0 +1,21 @@
+
+
+.container{
+    padding: 50px 100px;
+}
+
+.todo-input{
+    height: 35px;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+.add-btn{
+    height: 36px;
+    background-color: #3b189c;
+    color: #fff;
+    border: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}

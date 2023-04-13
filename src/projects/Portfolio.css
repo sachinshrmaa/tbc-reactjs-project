@@ -1,0 +1,23 @@
+
+
+body{
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+
+.hero, .about{
+    height: 400px;
+    text-align: center;
+}
+
+
+
+
+.about{
+    
+}
